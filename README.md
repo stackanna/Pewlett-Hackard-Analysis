@@ -19,6 +19,9 @@ Using the ERD we had created in module 7 as a reference we created a Retirement 
 Data Table explaining the paths taken to create new data they wish for us to retrieve.
 ![alt text](https://github.com/stackanna/Pewlett-Hackard-Analysis/blob/9898bfec0aba17ccded8a22dbfafb6233082c5b6/EmployeeDB.png)
 
+Data Table listing the retirment titles for employees of Pewlett Hackard.
+![alt text](https://github.com/stackanna/Pewlett-Hackard-Analysis/blob/0af96135d2ca3d8f5ddd92a8f293724630f19092/retiring_titles.png)
+
 We utilized the ERD we created in module 7 as a reference to create a mentorship-eligibility table that holds the current employees who were born between January 1, 1965 & December 31, 1965. We joined the employees and Department employees through the primary key to create a new table we named Mentorship eligibility. A query was written and executed as mentorship_eligibility.csv. 
 
 ## Purpose & Overview
