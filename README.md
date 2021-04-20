@@ -31,3 +31,18 @@ The purpose of this analysis is to write a report that helps the manager prepare
 
 ## Results
 
+- We were analyzing data from over 300k employees. As the silver tsunami stands to take place Pewlett Hackard is in the position to lose close to 65% if their current employees as they retire in the next few years. That is a little over 90,000 employees who will need to be replaced. 
+- There are only five active managers & two of them are expected to retire in the next coming years. 
+- There are not enough employees to currently train the future employees at Hewlett Packard. As only 1,549 eligible employees who qualify for the mentorship Program. 
+- The membership program currently contains employees who’s data of birth is between January 1, 1965 & December 31, 1965. By increasing the years of qualifying participants we would be able to increase the qualifying members. This would help increase the number of people capable of mentoring future employees.
+
+
+
+## Additional Silver Tsunami Suggestions
+
+1. This query displaying the mentorship titles would significantly help narrow down the specific types of employees and their departments they need to replace. 
+
+![alt text](https://github.com/stackanna/Pewlett-Hackard-Analysis/blob/232625f8d0c56f9b0fed8123196cc6cf01325507/Pewlett-Hackard-Analysis%20Folder/mentorship_eligibility.png)
+2. Retiring Salaries would be the second query I would recommend as they would be able to decide the salary criteria for future employees. 
+
+![alt text](https://github.com/stackanna/Pewlett-Hackard-Analysis/blob/b722afbe88a1c274d1b0cc921122e25a1c00b02c/retiring_salaries.png)
